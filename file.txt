@@ -3,3 +3,4 @@ Changes staging line
 Another changes here
 
 After committed changes
+something
