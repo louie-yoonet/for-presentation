@@ -1,0 +1,3 @@
+Something changes
+Changes staging line
+Another changes here
