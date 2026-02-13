@@ -1,6 +1,7 @@
 Something changes
 Changes staging line
-Another changes here
+Master changes here
 
 After committed changes
 something
+sample 3
