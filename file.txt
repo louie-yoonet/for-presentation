@@ -1,6 +1,6 @@
 Something changes
 Changes staging line
-Something pancit canton with puto
+Master changes here
 
 After committed changes
 something
